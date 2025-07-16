@@ -1,7 +1,13 @@
 This is test 1
 
+<<<<<<< HEAD
 this line is updating in local branch slave1
 
 Now changing rmeotely
 
 test1 updated on remote
+=======
+Now changing rmeotely
+
+third line modified from slave2
+>>>>>>> slave2
